@@ -1,0 +1,1 @@
+rectangle with the help of two triangles with seperate colors each
