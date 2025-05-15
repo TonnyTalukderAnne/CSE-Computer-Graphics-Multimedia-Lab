@@ -1,0 +1,1 @@
+Triangle with Animated Red color ( time progresses, it will convert gradually from complete black to pure red) and, whenever I press my name's first letter, Triangle's color becomes green
